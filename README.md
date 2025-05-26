@@ -75,3 +75,29 @@ docker-compose up --build
 }
 ```
 
+### Publish Notification
+
+- **Endpoint**: POST /api/notifications/publish
+- **Description**: Publishes a notification to all registered devices.
+- Request Body:
+
+```bash
+{
+  "title": "Notification Title",
+  "body": "Notification Body",
+  "data": {
+    "link": "https://example.com"
+  },
+  "image_url": "https://example.com/image.png",
+  "action_url": "https://example.com/action"
+}
+```
+- Response
+
+```bash
+{
+  "message": "Notification published successfully"
+}
+```
+
+
