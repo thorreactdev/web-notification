@@ -4,7 +4,7 @@
 ## 🚀 Subscribed Successfully FCM Token stored in backend
 ![ALt_TEXT](subscribe.png)
 
-## Hit the /notification/publish endpoint from the postman
+## 🚀🚀 Hit the /notification/publish endpoint from the postman
 ![ALT TEXT](postman.png)
 
 
