@@ -100,6 +100,6 @@ docker-compose up --build
 }
 ```
 
-![Home_Page](Screenshot 2025-05-27 001250.png)
+![ALT TEXT](Screenshot 2025-05-27 001250.png)
 
 
