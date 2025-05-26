@@ -10,6 +10,9 @@
 ## 🔔 Background Notification
 ![ALT TEXT](background_notification.png)
 
+## 🔔Foreground Notification
+![ALT TEXT](foreground.png)
+
 
 ## 📋 Overview
 
