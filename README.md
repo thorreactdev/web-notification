@@ -57,3 +57,21 @@ docker-compose up --build
 - **Username**: guest
 - **Password**: guest
 
+### 📬 API Documentation
+- Register Device Token
+- Endpoint: POST /api/devices/register
+- Description: Registers a device's FCM token.
+
+- Request Body
+```bash
+{
+  "fcm_token": "your-device-fcm-token"
+}
+```
+- Response
+```bash
+{
+  "message": "Token registered successfully"
+}
+```
+
