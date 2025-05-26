@@ -1,3 +1,5 @@
+# 🔔 Push Notification System with RabbitMQ & Firebase Cloud Messaging
+
 📋 Overview
 
 This project is a full-stack push notification system that enables real-time notifications to subscribed users. It integrates:
