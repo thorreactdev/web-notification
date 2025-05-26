@@ -1,4 +1,5 @@
 # 🔔 Push Notification System with RabbitMQ & Firebase Cloud Messaging
+![ALT TEXT](Home_Page.png)
 
 ## 📋 Overview
 
@@ -100,6 +101,6 @@ docker-compose up --build
 }
 ```
 
-![ALT TEXT](Screenshot 2025-05-27 001250.png)
+
 
 
