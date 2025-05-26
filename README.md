@@ -41,4 +41,19 @@ VAPID_KEY=your-vapid-key
 
 Replace your-vapid-key with your actual Firebase VAPID key.
 ```
+### Add Firebase Credentials
+- Place your serviceAccountKey.json file in the backend/ directory.
+
+### Build and Run with Docker Compose
+```bash
+cd backend
+docker-compose up --build
+```
+
+### Access the Application
+- **Frontend**: http://localhost:5173
+- **Backend API**: http://localhost:5000
+- **RabbitMQ Management UI**: http://localhost:15672
+- **Username**: guest
+- **Password**: guest
 
