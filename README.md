@@ -16,3 +16,18 @@ This project is a full-stack push notification system that enables real-time not
 - **Notification Publishing**: Backend API to publish notifications to all subscribers.
 - **Real-time Delivery**: Utilizes RabbitMQ and FCM for instant notification delivery.
 - **Dockerized Setup**: Easy setup with Docker Compose.
+
+# 🛠️ Getting Started
+
+## Prerequisites
+
+- Docker
+- Node.js (for local development without Docker)
+
+## Installation
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
