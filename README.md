@@ -33,4 +33,12 @@ git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 ```
 ### Set Up Environment Variables
-- **Create a .env file in the backend/ directory with the following content:
+- Create a .env file in the backend/ directory with the following content:
+```bash
+RABBITMQ_URL=amqp://guest:guest@rabbitmq:5672/
+FIREBASE_CREDENTIALS=/app/serviceAccountKey.json
+VAPID_KEY=your-vapid-key
+
+Replace your-vapid-key with your actual Firebase VAPID key.
+```
+
