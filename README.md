@@ -7,6 +7,9 @@
 ## 🚀🚀 Hit the /notification/publish endpoint from the postman
 ![ALT TEXT](postman.png)
 
+## 🔔 Background Notification
+![ALT TEXT](background_notification.png)
+
 
 ## 📋 Overview
 
